@@ -1,0 +1,15 @@
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\bin\Debug\net6.0\2Task.exe
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\bin\Debug\net6.0\2Task.deps.json
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\bin\Debug\net6.0\2Task.runtimeconfig.json
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\bin\Debug\net6.0\2Task.dll
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\bin\Debug\net6.0\2Task.pdb
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\obj\Debug\net6.0\2Task.csproj.AssemblyReference.cache
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\obj\Debug\net6.0\2Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\obj\Debug\net6.0\2Task.AssemblyInfoInputs.cache
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\obj\Debug\net6.0\2Task.AssemblyInfo.cs
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\obj\Debug\net6.0\2Task.csproj.CoreCompileInputs.cache
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\obj\Debug\net6.0\2Task.dll
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\obj\Debug\net6.0\refint\2Task.dll
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\obj\Debug\net6.0\2Task.pdb
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\obj\Debug\net6.0\2Task.genruntimeconfig.cache
+C:\Users\Gasanov\Documents\NoobCoders\NoobCoders\2Task\obj\Debug\net6.0\ref\2Task.dll
